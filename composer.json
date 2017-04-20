@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-modernizr",
+    "description": "[Larakit] sf-modernizr",
+    "version": "3.3.1",
+    "license": "MIT",
+    "require": {
+        "larakit/lk-staticfiles": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
